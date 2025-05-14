@@ -6,8 +6,3 @@ Denne chatboten lister alle medlemsbedriftene i Digin (Alle bedriftene som er me
 For å kjøre systemet må databasen kjøres selvstendig først.
 
 Systemet er utviklet av Elias D. Simonsen. Github: EliasSimmi2002.
-
-Under er et skjermbilde av chatboten i bruk:
-
-
-
